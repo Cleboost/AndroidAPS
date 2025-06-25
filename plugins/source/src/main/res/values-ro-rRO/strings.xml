@@ -4,8 +4,8 @@
     <string name="ns_client_bg">Glicemie NSClient</string>
     <string name="ns_client_bg_short">NS GL</string>
     <string name="description_source_ns_client">Descarcă datele despre glicemii din Nightscout</string>
-    <string name="source_xdrip">Glicemie xDrip+ / Juggluco</string>
-    <string name="description_source_xdrip">Primește valorile glicemiei din xDrip+ sau Juggluco.</string>
+    <string name="source_xdrip">Glicemie xDrip+</string>
+    <string name="description_source_xdrip">Primește valorile glicemiei din xDrip+.</string>
     <string name="dexcom_app_patched">BYODA</string>
     <string name="dexcom_short">BYODA</string>
     <string name="description_source_dexcom">Primește valori de glicemie de la aplicația Dexcom modificată.</string>

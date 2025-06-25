@@ -4,8 +4,8 @@
     <string name="ns_client_bg">NSClient BG</string>
     <string name="ns_client_bg_short">NS BG</string>
     <string name="description_source_ns_client">Ladda ner BG-data från Nightscout</string>
-    <string name="source_xdrip">xDrip+ / Juggluco BG</string>
-    <string name="description_source_xdrip">Ta emot BG-data från xDrip+ eller Juggluco.</string>
+    <string name="source_xdrip">xDrip+ BG</string>
+    <string name="description_source_xdrip">Ta emot BG-data från xDrip+.</string>
     <string name="dexcom_app_patched">Patchad Dexcom-app</string>
     <string name="dexcom_short">Dex</string>
     <string name="description_source_dexcom">Ta emot BG-värden från \"Bygg din egen Dexcom-app\".</string>
